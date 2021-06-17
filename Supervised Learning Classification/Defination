@@ -1,0 +1,1 @@
+In supervised learning, algorithms learn from labeled data. After understanding the data, the algorithm determines which label should be given to new data by associating patterns to the unlabeled new data. Supervised learning can be divided into two categories: classification and regression.
