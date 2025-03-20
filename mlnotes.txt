@@ -1,0 +1,18 @@
+read file
+details(shape)
+describe
+handling missing data
+cleaning
+
+
+import algo
+train data
+predict on train data
+evaluation
+visualization
+test data
+evaluation 
+visualization
+ridge Regression
+lasso Regression
+elasticNet Regression
